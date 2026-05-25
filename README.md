@@ -13,10 +13,6 @@ This repository contains Terraform configurations to provision an Amazon EKS clu
 * IAM Roles for Service Accounts (IRSA)
 * Cluster Autoscaler
 
-The implementation is based on the following guide:
-
-* [Step-by-Step Guide: Creating an EKS Cluster with Terraform Resources, IAM Roles for Service Accounts, and EKS Cluster Autoscaler](https://medium.com/@tech_18484/step-by-step-guide-creating-an-eks-cluster-with-terraform-resources-iam-roles-for-service-df1c5e389811?utm_source=chatgpt.com)
-
 ---
 
 # Architecture
